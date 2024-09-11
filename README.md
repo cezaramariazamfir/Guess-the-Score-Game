@@ -2,6 +2,9 @@
 
 This interactive web game challenges players to guess the final scores of football matches based on randomly displayed information. The game uses data fetched from a JSON file and provides feedback on the guesses made by the player.
 
+![image](https://github.com/user-attachments/assets/371059e1-25cb-4095-8f88-4ce44bb421ba)
+
+
 ## Features
 
 - Fetches match data from a `results.json` file.
